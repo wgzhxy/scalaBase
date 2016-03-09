@@ -15,7 +15,7 @@ object BaseScalaType {
     }
 
     //print all
-    for(charS <- array) {
+    for (charS <- array) {
       Console.println("======================" + charS);
     }
   }
